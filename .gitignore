@@ -1,0 +1,27 @@
+# ── Secretos (NUNCA subir) ──
+.credentials.json
+.last-update-result.json
+.last-cleanup
+mcp-needs-auth-cache.json
+settings.local.json
+history.jsonl
+*.log
+
+# ── Sesiones / transcripts / estado de máquina ──
+projects/
+sessions/
+session-env/
+shell-snapshots/
+paste-cache/
+file-history/
+todos/
+statsig/
+
+# ── Pesado / regenerable ──
+plugins/
+cache/
+backups/
+ecc/
+
+# ── Datos locales de aprendizaje (por máquina) ──
+homunculus/projects/

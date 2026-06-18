@@ -1,0 +1,65 @@
+{
+  "proto": 1,
+  "supervisorPid": 9407,
+  "updatedAt": 1781028364010,
+  "workers": {
+    "9b9bae40": {
+      "pid": 1790,
+      "procStart": "68952",
+      "sessionId": "9b9bae40-244f-4da3-94d0-36755b5c9c12",
+      "rendezvousSock": "/tmp/cc-daemon-1000/063ae657/rv/9b9bae40.sock",
+      "ptySock": "/tmp/cc-daemon-1000/063ae657/pty/9b9bae40.sock",
+      "cliVersion": "2.1.169",
+      "startedAt": 1781025000909,
+      "attempt": 1,
+      "cwd": "/home/matiusdev",
+      "dispatch": {
+        "proto": 1,
+        "short": "9b9bae40",
+        "nonce": "c35ef5a8",
+        "sessionId": "9b9bae40-244f-4da3-94d0-36755b5c9c12",
+        "createdAt": 1781025000102,
+        "source": "slash",
+        "cwd": "/home/matiusdev",
+        "launch": {
+          "mode": "resume",
+          "sessionId": "/home/matiusdev/.claude/projects/-home-matiusdev/2027e06b-6730-4c59-afb6-37fe87270894.jsonl",
+          "fork": true,
+          "flagArgs": [
+            "--model",
+            "claude-sonnet-4-6",
+            "--permission-mode",
+            "default"
+          ]
+        },
+        "env": {
+          "CLAUDE_BG_ISOLATION": "none"
+        },
+        "isolation": "none",
+        "respawnFlags": [
+          "--model",
+          "claude-sonnet-4-6",
+          "--permission-mode",
+          "default"
+        ],
+        "seed": {
+          "intent": "Disculpa me equivoqué, la tecla windows sigue interactuando con los atajos de windows, entonces toca cambiarlo para otra tecla, o hay alguna otra forma de deshabilitarlo cuando este ventana este abier",
+          "name": "Configure Archlinux with Hyprland in Windows 11"
+        },
+        "cols": 268,
+        "rows": 64
+      },
+      "decModes": [
+        1000,
+        1002,
+        1003,
+        1006,
+        2004,
+        1004,
+        2031
+      ],
+      "rvAuth": "9a2480a295dd49b1a47d5a24c76a04c9",
+      "ptyAuth": "4a35e4876870a099f7159a241718c7a5"
+    }
+  }
+}

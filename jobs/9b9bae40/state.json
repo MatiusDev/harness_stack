@@ -1,0 +1,28 @@
+{
+  "state": "working",
+  "detail": "No response requested.",
+  "tempo": "active",
+  "output": null,
+  "children": null,
+  "linkScanOffset": 0,
+  "template": "bg",
+  "respawnFlags": [
+    "--permission-mode",
+    "default",
+    "--model",
+    "claude-sonnet-4-6"
+  ],
+  "bgIsolation": "none",
+  "providerEnv": {},
+  "intent": "Disculpa me equivoqué, la tecla windows sigue interactuando con los atajos de windows, entonces toca cambiarlo para otra tecla, o hay alguna otra forma de deshabilitarlo cuando este ventana este abier",
+  "name": "Configure Archlinux with Hyprland in Windows 11",
+  "nameSource": "auto",
+  "sessionId": "9b9bae40-244f-4da3-94d0-36755b5c9c12",
+  "resumeSessionId": "9b9bae40-244f-4da3-94d0-36755b5c9c12",
+  "daemonShort": "9b9bae40",
+  "cwd": "/home/matiusdev",
+  "createdAt": "2026-06-09T17:10:00.043Z",
+  "updatedAt": "2026-06-09T17:10:02.048Z",
+  "firstTerminalAt": null,
+  "backend": "daemon"
+}
